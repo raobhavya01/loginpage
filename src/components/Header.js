@@ -9,7 +9,7 @@ const Header = () => {
         <>
             <Navbar bg="dark" variant="dark">
                 <Container>
-                    <Nav className="text-decoration-none text-light mx-2"><a href='https://github.com/Godfathxx/loginpage'>helpdesk</a></Nav>
+                    <Nav className="text-decoration-none text-light mx-2"><a href='https://internship-lyart.vercel.app/'>helpdesk</a></Nav>
                     <Nav className="me-auto">
                         <NavLink to="/" className="text-decoration-none text-light mx-2">Home</NavLink>
                     </Nav>
